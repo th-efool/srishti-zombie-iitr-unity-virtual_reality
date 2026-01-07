@@ -7,6 +7,39 @@
 ![Domain](https://img.shields.io/badge/domain-VR%20Game%20Development-blue.svg)
 ![Architecture](https://img.shields.io/badge/architecture-modular%20gameplay-informational.svg)
 
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231347.png" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231536.png" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231304.png" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231218.png" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231206.png" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231004.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+
 Developed for **Srishti 2025 — the Annual Technical Exhibition of IIT Roorkee**, this project was showcased under the **Tinkering Lab – Metaverse section**, representing an immersive intersection of virtual reality, game systems, and spatial storytelling.
 
 **Srishti**, established in **1958**, has long served as a platform for practical innovation and creative engineering at IIT Roorkee. Our project aligns with this legacy by transforming a historically significant real-world structure into an interactive virtual environment.
