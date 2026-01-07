@@ -278,14 +278,3 @@ This ensures **clean teardown** without leaving active AI logic behind.
 * Floor collision re-enables the NavMeshAgent to recover from spawn or physics glitches.
 * Defensive checks prevent logic execution after death.
 * Coroutines and invokes are isolated to avoid race conditions.
-
----
-
-If you want, next we can:
-
-* Add a **“System Diagram” section**
-* Write a **Performance / Optimization Notes** section
-* Clean this into a **GitHub-polished README tone**
-* Or document **animation + asset pipeline** (FBX → Animator → AI)
-
-Say the word and which section comes next.
