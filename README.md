@@ -10,35 +10,34 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231347.png" width="100%">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231347.png" width="720">
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231536.png" width="100%">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231536.png" width="350">
     </td>
     <td align="center">
-      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231304.png" width="100%">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231304.png" width="350">
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231218.png" width="100%">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231218.png" width="350">
     </td>
     <td align="center">
-      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231206.png" width="100%">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231206.png" width="350">
     </td>
   </tr>
 
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231004.png" width="100%">
+      <img src="https://github.com/th-efool/srishti-zombie-iitr-unity-virtual_reality/blob/main/Packages/screenshot20260107231004.png" width="720">
     </td>
   </tr>
 </table>
-
 
 Developed for **Srishti 2025 — the Annual Technical Exhibition of IIT Roorkee**, this project was showcased under the **Tinkering Lab – Metaverse section**, representing an immersive intersection of virtual reality, game systems, and spatial storytelling.
 
