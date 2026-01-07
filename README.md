@@ -1,7 +1,27 @@
 ## Zombies IITR — VR Survival Experience
 
-Developed for Srishti — the Annual Technical Exhibition of IIT Roorkee, this project was showcased under the Tinkering Lab – Metaverse section, representing an immersive intersection of virtual reality, game systems, and spatial storytelling.
-Srishti, established in 1958, has long served as a platform for practical innovation and creative engineering at IIT Roorkee. Our project aligns with this legacy by transforming a historically significant real-world structure into an interactive virtual environment.
+Developed for **Srishti 2025 — the Annual Technical Exhibition of IIT Roorkee**, this project was showcased under the **Tinkering Lab – Metaverse section**, representing an immersive intersection of virtual reality, game systems, and spatial storytelling.
+
+**Srishti**, established in **1958**, has long served as a platform for practical innovation and creative engineering at IIT Roorkee. Our project aligns with this legacy by transforming a historically significant real-world structure into an interactive virtual environment.
+
+### Concept
+
+We built a **VR zombie survival game** set inside a **digitally reconstructed version of IIT Roorkee’s iconic James Thomson Building**. The objective was not merely to create a game, but to demonstrate how **virtual reality can reimagine familiar physical spaces**, enabling experiential learning, exploration, and engagement through interactive systems.
+
+Players navigate the James Thomson Building in VR, encountering hostile AI entities, managing limited resources, and making real-time survival decisions. The environment retains the architectural identity of the original structure while introducing gameplay-driven tension and immersion.
+
+### Technical Focus
+
+* Full **VR locomotion and interaction**
+* Real-time **AI-driven enemies**
+* Spatially accurate level design inspired by a real campus landmark
+* Emphasis on immersion, presence, and player agency
+
+### Purpose
+
+The project demonstrates how **metaverse-style experiences** can extend beyond abstract worlds into **contextual, location-based virtual spaces**, blending gaming, architecture, and emerging XR technologies.
+
+By situating gameplay within a recognizable IIT Roorkee landmark, we aimed to bridge **technical creativity with institutional identity**, making the experience both engaging and meaningful for exhibition visitors.
 
 ## VR Interaction System
 
